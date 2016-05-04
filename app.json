@@ -1,0 +1,15 @@
+{
+  "name": "JangoWeb",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
